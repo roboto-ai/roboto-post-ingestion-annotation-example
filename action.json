@@ -1,0 +1,9 @@
+{
+    "name": "post_ingestion_update",
+    "description": "An example of an action which performs some additional annotation after a file has been ingested.",
+    "compute_requirements": {
+        "vCPU": 512,
+        "memory": 1024,
+        "storage": 21
+    }
+}
